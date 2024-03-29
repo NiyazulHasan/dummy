@@ -1,0 +1,10 @@
+package com.ihub.www.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+@Table
+public class Employee 
+{
+	
+}
